@@ -1,9 +1,10 @@
 # VELO Chatbot Demographic Recommender  
 
 ## 📌 Overview  
-This project develops a **Python-based chatbot** and **synthetic dataset generator** for **Velo Pakistan**.  
-The chatbot collects structured demographic and consumer preference data via a decision-tree survey.  
-The resulting dataset helps optimize flavour/strength assortments for small retailers and identify under-realized flavours for future trials.  
+This repository was created as part of an in-class project for McGill University.
+It develops a Python-based chatbot and synthetic dataset generator for **Velo Pakistan**.
+The **chatbot** collects structured demographic and consumer preference data via a **decision-tree survey**.
+The resulting dataset helps **optimize** flavour/strength assortments for small retailers and **identify under-realized flavours for future trials**.
 
 
 
@@ -53,7 +54,7 @@ jupyter notebook notebooks/"chat bot model & mock dataset code.ipynb"
 ## ⚠️ Limitations
 - Granularity → Only 4 regions + metro/rural considered; neighbourhood-level variations not captured.
 - Response Bias → Survey on velo.com.pk may overrepresent existing Velo users.
-- Large Files → Some presentation files exceed 50 MB (consider Git LFS if needed).
+- Large Files → Some presentation files exceed 50 MB.
 
 ## 📈 Future Extensions
 - Collect emails for CRM & marketing campaigns.
