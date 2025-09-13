@@ -5,14 +5,14 @@ This project develops a **Python-based chatbot** and **synthetic dataset generat
 The chatbot collects structured demographic and consumer preference data via a decision-tree survey.  
 The resulting dataset helps optimize flavour/strength assortments for small retailers and identify under-realized flavours for future trials.  
 
----
+
 
 ## 🎯 Objectives  
 - **Store-Level Prioritization** → Recommend the best flavour/strength mix for each region and retailer type.  
 - **Identify Under-Realized Flavours** → Detect flavours attractive to new users but underperforming among existing ones.  
 - **Consumer Insights** → Build scalable demographic and preference datasets for product development and marketing.  
 
----
+
 
 ## 🛠️ Features  
 - Decision-tree chatbot flow (age, gender, region, urban/rural, occupation, nicotine use, flavour preferences).  
@@ -26,8 +26,7 @@ The resulting dataset helps optimize flavour/strength assortments for small reta
 - `notebooks/` → Jupyter notebooks (chatbot + dataset code)  
 - `data/` → Mock datasets (CSV)  
 - `docs/` → Project documentation (Word, PDF)  
-- `slides/` → Presentation slides (PPTX)  
-- `README.md` → Project overview (this file)  
+- `slides/` → Presentation slides (PPTX)   
 
 
 
