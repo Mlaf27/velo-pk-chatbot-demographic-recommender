@@ -20,7 +20,6 @@ The resulting dataset helps optimize flavour/strength assortments for small reta
 - Weighted probability sampling for **flavour and strength selection**.  
 - Output: structured dictionaries and CSV datasets ready for analysis.  
 
----
 
 ## 📂 Repository Structure  
 velo-pk-chatbot-demographic-recommender/
@@ -31,7 +30,6 @@ velo-pk-chatbot-demographic-recommender/
 │── README.md # Project overview (this file)
 
 
----
 
 ## 🚀 How to Run  
 1. Clone the repository:  
@@ -65,7 +63,7 @@ jupyter notebook notebooks/"chat bot model & mock dataset code.ipynb"
 - Deploy chatbot via WhatsApp/SMS for wider reach.
 
 ## 👥 Authors
-Matthieu Lafont
-Feroz Obaid Khan
-Henry Wolcott
+Matthieu Lafont;
+Feroz Obaid Khan;
+Henry Wolcott;
 Okerein Emmanuel Ebipade
