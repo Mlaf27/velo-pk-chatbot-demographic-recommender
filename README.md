@@ -39,8 +39,8 @@ The resulting dataset helps optimize flavour/strength assortments for small reta
 2. Open the Jupyter notebook:
 jupyter notebook notebooks/"chat bot model & mock dataset code.ipynb"
 3. Run the cells to:
--Launch the chatbot demo.
--Generate synthetic consumer preference data.
+- Launch the chatbot demo.
+- Generate synthetic consumer preference data.
 
 ## 📊 Dataset Generation Process
 
