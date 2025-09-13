@@ -22,12 +22,13 @@ The resulting dataset helps optimize flavour/strength assortments for small reta
 
 
 ## 📂 Repository Structure  
-velo-pk-chatbot-demographic-recommender/
-│── notebooks/ # Jupyter notebooks (chatbot + dataset code)
-│── data/ # Mock datasets (CSV)
-│── docs/ # Project documentation (Word, PDF)
-│── slides/ # Presentation slides (PPTX)
-│── README.md # Project overview (this file)
+
+- `notebooks/` → Jupyter notebooks (chatbot + dataset code)  
+- `data/` → Mock datasets (CSV)  
+- `docs/` → Project documentation (Word, PDF)  
+- `slides/` → Presentation slides (PPTX)  
+- `README.md` → Project overview (this file)  
+
 
 
 
